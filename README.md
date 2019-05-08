@@ -1,4 +1,4 @@
-# Mitchell_Hewitt_Personal
+# Mitchell Hewitt's Repository
 
 ## **Welcome!**
 
