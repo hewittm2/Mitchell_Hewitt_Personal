@@ -13,7 +13,7 @@
 	- This is my Capstone project for the CSG Program. The title is Rebel Streetwise, a 2 v 2, 3D fighting game. I was appointed the UI/UX Feature Team Lead, as well as, the project's Build Master.
 
 - *Dark Heresy and D&D Ravnica Conversion* 'DH_D&D_Conversion'
-	- As a team, we combined the mechanics and system of Dark Heresy, and combined them with the setting of D and D Ravnica.
+	- As a team, we combined the mechanics and system of Dark Heresy, and combined them with the setting of D&D Ravnica.
 
 - *Follow That Pipe* 'Follow_That_Pipe'
 	- Follow That Pipe is an interactive, educational puzzle game. Contracted by We Energies and on display at Discovery World, the premise of this game is to teach children the process of turning crude oil into useable energy. 
@@ -23,3 +23,4 @@
 
 - *Whitebox Editor Tool* 'WhiteBoxEditorTool'
 	- This project is a Unity 3D whiteboxing editor tool. It's purpose is to allow designers or newer developers hop into the engine and speedily create a whiteboxed version of their environment.
+    
